@@ -1,0 +1,61 @@
+{
+  "addons": {
+    "zoterostyle@polygon.org": {
+      "updates": [
+        {
+          "version": "6.0.4",
+          "update_link": "https://raw.githubusercontent.com/updateuse/updataperson/main/supdate.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    },
+    "zoterogpt@polygon.org": {
+      "updates": [
+        {
+          "version": "3.1.3",
+          "update_link": "https://raw.githubusercontent.com/updateuse/updataperson/main/gupdate.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    },
+    "zoteroreference@polygon.org": {
+      "updates": [
+        {
+          "version": "1.7.3",
+          "update_link": "https://raw.githubusercontent.com/updateuse/updataperson/main/rupdate.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    },
+    "zoteromagic@zoterocn.com": {
+      "updates": [
+        {
+          "version": "2.5.5",
+          "update_link": "https://raw.githubusercontent.com/updateuse/updataperson/main/mupdate.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    }
+  }
+
+}
+
+
+
+
