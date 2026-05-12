@@ -3,7 +3,7 @@
     "zoterostyle@polygon.org": {
       "updates": [
         {
-          "version": "6.0.4",
+          "version": "6.0.6",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/supdate.xpi",
           "applications": {
             "zotero": {
@@ -42,7 +42,7 @@
     "zoteromagic@zoterocn.com": {
       "updates": [
         {
-          "version": "2.5.5",
+          "version": "2.5.6",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/mupdate.xpi",
           "applications": {
             "zotero": {
