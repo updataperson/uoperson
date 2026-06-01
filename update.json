@@ -3,7 +3,7 @@
     "zoterostyle@polygon.org": {
       "updates": [
         {
-          "version": "6.0.6",
+          "version": "6.0.4",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/supdate.xpi",
           "applications": {
             "zotero": {
@@ -16,7 +16,7 @@
     "zoterogpt@polygon.org": {
       "updates": [
         {
-          "version": "3.1.8",
+          "version": "3.1.7",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/gupdate.xpi",
           "applications": {
             "zotero": {
@@ -29,7 +29,7 @@
     "zoteroreference@polygon.org": {
       "updates": [
         {
-          "version": "1.7.5",
+          "version": "1.7.3",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/rupdate.xpi",
           "applications": {
             "zotero": {
