@@ -1,9 +1,9 @@
 {
   "addons": {
-    "zoterostyle@polygon.org": {
+    "style@polygon.org": {
       "updates": [
         {
-          "version": "6.0.6",
+          "version": "6.0.8",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/supdate.xpi",
           "applications": {
             "zotero": {
@@ -13,7 +13,7 @@
         }
       ]
     },
-    "zoterogpt@polygon.org": {
+    "gpt@polygon.org": {
       "updates": [
         {
           "version": "3.1.8",
@@ -26,7 +26,7 @@
         }
       ]
     },
-    "zoteroreference@polygon.org": {
+    "reference@polygon.org": {
       "updates": [
         {
           "version": "1.7.3",
