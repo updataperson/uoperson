@@ -29,7 +29,7 @@
     "zoteroreference@polygon.org": {
       "updates": [
         {
-          "version": "1.7.5",
+          "version": "1.7.3",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/rupdate.xpi",
           "applications": {
             "zotero": {
