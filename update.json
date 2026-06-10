@@ -39,10 +39,10 @@
         }
       ]
     },
-    "zoteromagic@zoterocn.com": {
+    "magic@zoterocn.com": {
       "updates": [
         {
-          "version": "2.6.4",
+          "version": "2.6.5",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/mupdate.xpi",
           "applications": {
             "zotero": {
