@@ -55,7 +55,7 @@
     "zoteroif@qnscholar": {
       "updates": [
         {
-          "version": "6.8.0",
+          "version": "6.9.4",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/oneupdate.xpi",
           "applications": {
             "zotero": {
