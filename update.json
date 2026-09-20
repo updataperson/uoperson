@@ -42,7 +42,7 @@
     "zoteromagic@zoterocn.com": {
       "updates": [
         {
-          "version": "2.6.5",
+          "version": "2.8.11",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/mupdate.xpi",
           "applications": {
             "zotero": {
