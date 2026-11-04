@@ -42,7 +42,7 @@
     "zoteromagic@zoterocn.com": {
       "updates": [
         {
-          "version": "99.8.12",
+          "version": "99.8.13",
           "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/mupdate.xpi",
           "applications": {
             "zotero": {
@@ -55,7 +55,7 @@
    "zoteroif@qnscholar": {
      "updates": [
       {
-      "version": "7.1.3.1",
+      "version": "7.1.4",
       "update_link": "https://raw.githubusercontent.com/updataperson/uoperson/main/oneupdate.xpi",
       "applications": {
         "zotero": {
